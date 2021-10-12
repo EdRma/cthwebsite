@@ -1,3 +1,3 @@
 # website CTH
 ## test test test
-[mijn website](file:///C:/Users/Ed/f1m1/pvaardig/cthwebsite/web/index.html)
+[mijn website](http://34298.hosts2.ma-cloud.nl/web/)
